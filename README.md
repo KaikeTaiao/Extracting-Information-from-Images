@@ -21,7 +21,7 @@ If the image quality is poor and it is not possible to extract the information, 
   ```bash
   sudo apt update
   sudo apt install tesseract-ocr
-  sudo apt install tesseract-ocr-por
+  sudo apt install tesseract-ocr-por # Install Portuguese language support if needed
 
 
 - **Windows:**
