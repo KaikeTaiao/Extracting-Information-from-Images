@@ -1,2 +1,2 @@
-# DevTesseract
- Utilizando a ferramenta Tesseract para extrair textos de imagens.
+# Extrair Informações de Imagens
+Utilizando as ferramentas Tesseract e OpenCV para extrair textos de imagens.
