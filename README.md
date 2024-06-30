@@ -16,6 +16,15 @@ If the image quality is poor and it is not possible to extract the information, 
   pip install opencv-python
   ```
 
+### Important Note:
+
+Remember that `Pytesseract relies on Tesseract OCR to function`. Ensure you install `Tesseract OCR` before installing `Pytesseract`. The **pytesseract.exe** path might be needed depending on your environment setup for using **Tesseract OCR** with Python.
+
+
+![Tesseract OCR](https://github.com/KaikeTaiao/Extracting-Information-from-Images/assets/163609365/5636bb70-7ed9-4763-999f-bba4ae58bbac)
+
+
+
 
 #### Tesseract Installation
 
@@ -44,3 +53,5 @@ If the image quality is poor and it is not possible to extract the information, 
 
 4. **Copy the Executable Path:**
    - Right-click on `pytesseract.exe`, select "Properties," and copy the full file path displayed in the properties window.
+
+
