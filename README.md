@@ -23,8 +23,10 @@ Remember that `Pytesseract relies on Tesseract OCR to function`. Ensure you inst
 
 ![Tesseract OCR](https://github.com/KaikeTaiao/Extracting-Information-from-Images/assets/163609365/5636bb70-7ed9-4763-999f-bba4ae58bbac)
 
-
-
+#### Create a variable and place the path of Tesseract OCR.
+```Python
+  path = "path_to_tesseract_ocr_executable"
+```
 
 #### Tesseract Installation
 
