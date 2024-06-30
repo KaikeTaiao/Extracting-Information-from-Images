@@ -27,9 +27,9 @@ If the image quality is poor and it is not possible to extract the information, 
   ```
 
 - **Windows:**
- ```bash
+  ```bash
   pip install pytesseract
-```
+  ```
 
 ### Finding the pytesseract Executable
 
