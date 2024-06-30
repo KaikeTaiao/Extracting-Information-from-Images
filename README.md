@@ -20,6 +20,8 @@ If the image quality is poor and it is not possible to extract the information, 
 
 Remember that `Pytesseract relies on Tesseract OCR to function`. Ensure you install `Tesseract OCR` before installing `Pytesseract`. The **pytesseract.exe** path might be needed depending on your environment setup for using **Tesseract OCR** with Python.
 
+Download Tesseract OCR: https://github.com/UB-Mannheim/tesseract/wiki
+
 
 ![Tesseract OCR](https://github.com/KaikeTaiao/Extracting-Information-from-Images/assets/163609365/5636bb70-7ed9-4763-999f-bba4ae58bbac)
 
