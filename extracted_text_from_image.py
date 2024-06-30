@@ -13,6 +13,6 @@ caminho = r"C:\Program Files\Tesseract-OCR"
 
 # passo 2: pedir para o tesseract extrair o texto da image
 pytesseract.pytesseract.tesseract_cmd = caminho + r"\tesseract.exe"
-texto = pytesseract.image_to_string(imagem)
+texto = pytesseract.image_to_string(imagem, lang="por")
 
 print(texto)
