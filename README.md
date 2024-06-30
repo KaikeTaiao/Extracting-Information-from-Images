@@ -33,7 +33,7 @@ Extract the downloaded archive and add the Tesseract installation directory to y
 Finding the pytesseract Executable (Windows):
 1. Locate Python Installation:
    * Python is typically installed in `C:\PythonXX` (replace `XX` with your version, e.g., `C:\Python39`).
-2. Navigate to the `Scripts` Folder:
+2. Navigate to the Scripts Folder:
    * Go to the `Scripts` subfolder within your Python installation directory (e.g., `C:\Python39\Scripts`).
 3. Find the pytesseract Executable:
    * Look for `pytesseract.exe` in the `Scripts` folder.
