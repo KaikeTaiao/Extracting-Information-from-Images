@@ -1,5 +1,5 @@
 # Extracting-Information-from-Images
-If the image quality is poor and it is not possible to extract the information, it will be necessary to use both OpenCV and Tesseract to process the image.
+If the image quality is poor and it is not possible to extract the information, it will be necessary to use both `OpenCV` and `Tesseract` to process the image.
 
 ### Installation Guide for OpenCV and Tesseract
 
